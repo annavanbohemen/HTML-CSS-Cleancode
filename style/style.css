@@ -39,6 +39,12 @@ h1 {
   margin-bottom: 25px;
 }
 
+h3 {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 75px;
+  color: #7AB169;
+}
+
 .intro-text {
   color: #3e423f;
   font-family: 'Fjalla One', sans-serif;
